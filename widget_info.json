@@ -1,9 +1,9 @@
 {
   "type": "widget",
   "minVersion": 99,
-  "name": "能效标识（权限版）",
+  "name": "EcoTag（权限版）",
   "business_setup": {
-    "id": "energy_label_root",
+    "id": "ecotag_root",
     "renameable": true
   },
   "requirements": {
