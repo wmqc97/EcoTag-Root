@@ -1,4 +1,4 @@
-# 能效标识（权限版）技术架构
+# EcoTag（权限版）技术架构
 
 ## 概述
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const CONFIG = {
-  labelTitle: "能效标识",
+  labelTitle: "EcoTag",
   labelSubtitle: "权限版",
   refreshInterval: 60,     // 刷新间隔（秒）
   slot1: 0,                // 槽位 1 参数编号
@@ -45,7 +45,7 @@ const paramPool = [
   "version": 2,
   "cache": 600,
   "reareyeUri": {
-    "themeId": "能效标识_Root_v2.0",
+    "themeId": "EcoTag_Root_v2.0",
     "archiveKey": "..."
   }
 }
@@ -81,7 +81,7 @@ const paramPool = [
 
 - **Arc / Line**：绘制胶囊电池路径
 - **Text**：显示能效等级、数据指标
-- **Image**：背景图、能效标识图标
+- **Image**：背景图、EcoTag图标
 
 ## 广播数据格式
 
