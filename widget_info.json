@@ -1,7 +1,7 @@
 {
   "type": "widget",
   "minVersion": 99,
-  "name": "EcoTag（权限版）",
+  "name": "能效标识（权限版）",
   "business_setup": {
     "id": "ecotag_root",
     "renameable": true
@@ -10,5 +10,8 @@
     "packages": [
       "com.example.uriroute"
     ]
+  },
+  "postinstall": {
+    "uri": "content://uriroute/install?group=wmqc&name=spec&version=2&reareyeUri={'mode':'store_id','id':'{id}','entry':'spec.js'}"
   }
 }
