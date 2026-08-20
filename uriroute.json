@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    {
+      "group": "wmqc",
+      "name": "spec",
+      "version": 2,
+      "cache": 600,
+      "reareyeUri": {
+        "themeId": "能效标识_Root_v2.0",
+        "archiveKey": "spec.js"
+      }
+    }
+  ]
+}
