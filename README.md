@@ -1,8 +1,5 @@
 # EcoTag（权限版） - REAREye 锁屏组件
 
-![Version](https://img.shields.io/badge/version-2.1-blue)
-![Author](https://img.shields.io/badge/author-唯梦倾城-orange)
-![Requires](https://img.shields.io/badge/requires-UriRoute-red)
 
 复刻家电能效标签视觉风格的小米背屏 MAML 主题，**权限版需搭配 UriRoute 应用运行**，可采集更多硬件参数。
 
