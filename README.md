@@ -5,7 +5,7 @@
 
 ## 预览
 
-![预览图](./effect.png)
+![预览图](https://raw.githubusercontent.com/wmqc97/EcoTag-Root/main/effect.png)
 
 ## 功能
 
