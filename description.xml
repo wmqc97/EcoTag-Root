@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <theme>
-  <version><![CDATA[2.2]]></version>
+  <version><![CDATA[2.3]]></version>
   <uiVersion>12</uiVersion>
   <author><![CDATA[唯梦倾城]]></author>
   <designer><![CDATA[唯梦倾城]]></designer>
   <title><![CDATA[能效标识_权限版]]></title>
-  <description><![CDATA[小米背屏 MAML 主题 · 能效标识 Root 版 v2.2
+  <description><![CDATA[小米背屏 MAML 主题 · 能效标识 Root 版 v2.3
 复刻家电能效标签视觉风格，实时展示手机功耗信息。
 动态读取实时电流、瞬时功率、电池温度、CPU 占用、内存等参数。
 支持 4 个显示槽位自定义参数（编号选择），需搭配 UriRoute 运行。
 自动适配 Pro / Pro Max 双机型（宽高比判断）。
 充电/放电电流正负数值直观区分手机供电状态。
-v2.2 更新：统一卡片类型为壁纸、更新版本号与文档。]]></description>
+v2.3 更新：修复内存扩展开启后内存占用显示负数；主题信息迁移至 description.xml。]]></description>
   <appName/>
   <typeTag>theme_bind:com.wmqc.uriroute</typeTag>
   <frame>0</frame>
@@ -21,12 +21,12 @@ v2.2 更新：统一卡片类型为壁纸、更新版本号与文档。]]></desc
   <authors><author locale="zh_CN"><![CDATA[唯梦倾城]]></author></authors>
   <designers><designer locale="zh_CN"><![CDATA[唯梦倾城]]></designer></designers>
   <titles><title locale="zh_CN"><![CDATA[能效标识_权限版]]></title></titles>
-  <descriptions><description locale="zh_CN"><![CDATA[小米背屏 MAML 主题 · 能效标识 Root 版 v2.2
+  <descriptions><description locale="zh_CN"><![CDATA[小米背屏 MAML 主题 · 能效标识 Root 版 v2.3
 复刻家电能效标签视觉风格，实时展示手机功耗信息。
 动态读取实时电流、瞬时功率、电池温度、CPU 占用、内存等参数。
 支持 4 个显示槽位自定义参数（编号选择），需搭配 UriRoute 运行。
 自动适配 Pro / Pro Max 双机型（宽高比判断）。
 充电/放电电流正负数值直观区分手机供电状态。
-v2.2 更新：统一卡片类型为壁纸、更新版本号与文档。]]></description></descriptions>
+v2.3 更新：修复内存扩展开启后内存占用显示负数；主题信息迁移至 description.xml。]]></description></descriptions>
   <appNames/>
 </theme>
