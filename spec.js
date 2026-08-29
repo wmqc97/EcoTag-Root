@@ -147,7 +147,7 @@ function getMemoryUsage() {
         if (m2) { available = +m2[1]; }
     }
     if (!total || !available) return null;
-    var usedGb = (total - available) / 1024 / 1024;
+    var usedGb = Math.max(0, (total - available)) / 1024 / 1024;
     return usedGb.toFixed(1) + "G / " + (total / 1024 / 1024).toFixed(0) + "G";
 }
 
