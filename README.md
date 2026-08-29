@@ -32,20 +32,6 @@
 | 硬件参数 | ❌ | ✅ 电流/功率/温度/CPU 等 |
 | 刷新间隔 | 系统控制 | 自定义（默认 600 秒缓存） |
 
-## 文件结构
-
-```
-├── manifest.xml        # MAML 主题布局文件
-├── var_config.xml      # 用户可配置变量
-├── effect.png          # 预览图
-├── spec.js             # UriRoute 数据采集脚本（337 行）
-├── uriroute.json       # UriRoute 脚本配置
-├── widget_info.json    # REAREye 组件仓库配置
-├── strings/            # 多语言资源（zh_CN）
-├── AGENTS.md           # 技术架构说明
-└── README.md
-```
-
 ## 安装
 
 1. 确保已安装 UriRoute 应用
